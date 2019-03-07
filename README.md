@@ -3,7 +3,7 @@ ENGG1340 Computer Programming Course Project
 
 # Staff Management System
 
-## objectives
+## Objectives
 Manage employee information
 
 ## Progam language
