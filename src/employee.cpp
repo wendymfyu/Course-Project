@@ -4,6 +4,8 @@
 
 using namespace std;
 
+// write and read an object in, from binary file
+
 //class employee declaration
 class Employee {
 private : 
